@@ -178,6 +178,7 @@ main {
     justify-content: center;
     align-items: center;
     width: 100%;
+    padding-bottom: env(safe-area-inset-bottom);
 }
 
 /* Responsive Desktop Rules */
