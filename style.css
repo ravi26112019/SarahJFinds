@@ -96,16 +96,6 @@ main {
     font-weight: 700;
 }
 
-.bio-card__verified-icon {
-    width: 1rem;
-    height: 1rem;
-    position: absolute;
-    left: 100%;
-    top: 50%;
-    transform: translateY(-50%);
-    margin-left: 6px;
-}
-
 .sub-info {
     display: grid;
     gap: 0.4rem;
